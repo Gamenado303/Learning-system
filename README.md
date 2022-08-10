@@ -12,6 +12,7 @@ There will be different formats of questions for different types of questions:
 - spelling
 - true or false
 - ranking things in order (by date, size etc.)
+- blanking out certain parts of a question
 
 # QOL features
 
